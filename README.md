@@ -1,7 +1,7 @@
 puppet-latencytop
 =================
 
-A Puppet module for [LatencyTOP](https://en.wikipedia.org/wiki/LatencyTOP.
+A Puppet module for [LatencyTOP](https://en.wikipedia.org/wiki/LatencyTOP).
 
 License
 -------
