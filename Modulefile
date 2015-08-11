@@ -1,0 +1,6 @@
+name         'rfletcher-latencytop'
+version      '0.0.1'
+license      'MIT License'
+summary      'A Puppet module for LatencyTOP'
+description  'Install or remove LatencyTOP'
+project_page 'https://github.com/rfletcher/puppet-latencytop'
